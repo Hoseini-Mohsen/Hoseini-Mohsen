@@ -3,21 +3,17 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/seyed-mohsen-hoseini-ee/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:s.mohsen.hoseini.ee@gmail.com)
 
----
+## About Me
 
-👋 Hi, I'm Mohsen!
+I am Electrical Engineering student at Amirkabir University of Technology (Tehran Polytechnic). I enjoy learning programming and artificial intelligence, as well as expanding my skills and the intersection of Electrical Engineering and Eomputer Engineering.
 
-<!--
-**Hoseini-Mohsen/Hoseini-Mohsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech & Tools
 
-Here are some ideas to get you started:
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Get in Touch
+
+Feel free to reach out through [LinkedIn](https://www.linkedin.com/in/seyed-mohsen-hoseini-ee/) or by [email](mailto:s.mohsen.hoseini.ee@gmail.com).
