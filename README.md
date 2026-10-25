@@ -5,7 +5,7 @@
 
 ## About Me
 
-I am Electrical Engineering student at Amirkabir University of Technology (Tehran Polytechnic). I enjoy learning programming and artificial intelligence, as well as expanding my skills and the intersection of Electrical Engineering and Eomputer Engineering.
+I am Electrical Engineering student at Amirkabir University of Technology (Tehran Polytechnic). I enjoy learning programming and artificial intelligence, as well as expanding my skills and the intersection of Electrical Engineering and Computer Engineering.
 
 ## Tech & Tools
 
@@ -18,6 +18,7 @@ I am Electrical Engineering student at Amirkabir University of Technology (Tehra
 
 Feel free to reach out through [LinkedIn](https://www.linkedin.com/in/seyed-mohsen-hoseini-ee/) or by [email](mailto:s.mohsen.hoseini.ee@gmail.com).
 
-
-https://github.com/user-attachments/assets/604d33d8-5ae7-49b6-9094-df7d98cebdde
-
+<div align="center">
+  <h2>Thank You for Your Attention</h2>
+  <img src="./assets/thanks.gif" width="600" alt="Thank You for Your Attention">
+</div>
